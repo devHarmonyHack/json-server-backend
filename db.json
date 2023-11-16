@@ -1,33 +1,35 @@
 {
-  "projects": [
+  "events": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Project presentations",
+      "description": "Students will present their projects of module 2 of the WebDev Bootcamp of Ironhack",
+      "creator": "Luis",
+      "location": "Remote",
+      "date": "24/11/2023",
+      "time_range": "1pm-4pm",
+      "notes": [
+        "Be on time",
+        "Wear something formal"
+      ],
+      "image": "URL",
+      "type": "Meeting"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
+      "name": "Game presentations",
+      "description": "Students will present their games of module 1 of the WebDev Bootcamp of Ironhack",
+      "creator": "Luis",
+      "location": "Remote",
+      "date": "3/11/2023",
+      "time_range": "1pm-4pm",
+      "notes": [
+          "Be on time",
+          "Wear something formal"
+      ],
+      "image": "URL",
+      "type": "Meeting"
+  }
   ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    }
-  ]
+  "tasks": []
 }
