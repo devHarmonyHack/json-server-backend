@@ -4,14 +4,11 @@
       "id": 1,
       "name": "Project presentations",
       "description": "Students will present their projects of module 2 of the WebDev Bootcamp of Ironhack",
-      "creator": "Luis",
+      "creator": "Elise",
       "location": "Remote",
       "date": "2023-11-24",
       "time_range": "1pm-4pm",
-      "notes": [
-        "Be on time",
-        "Wear something formal"
-      ],
+      "notes": "",
       "image": "URL",
       "type": "Meeting"
     },
@@ -19,14 +16,23 @@
       "id": 2,
       "name": "Game presentations",
       "description": "Students will present their games of module 1 of the WebDev Bootcamp of Ironhack",
-      "creator": "Luis",
+      "creator": "Fran",
       "location": "Remote",
       "date": "2023-11-3",
       "time_range": "1pm-4pm",
-      "notes": [
-          "Be on time",
-          "Wear something formal"
-      ],
+      "notes":"",
+      "image": "URL",
+      "type": "Meeting"
+  },
+    {
+      "id": 3,
+      "name": "Sushi Meeting",
+      "description": "Students will eat sushi",
+      "creator": "Maria_32",
+      "location": "SushiPlace",
+      "date": "2023-11-3",
+      "time_range": "1pm-4pm",
+      "notes":"",
       "image": "URL",
       "type": "Meeting"
   }
@@ -37,70 +43,110 @@
       "userName": "Elise",
       "image": "URL",
       "aboutMe": "I am a student of the Ironhack Bootcamp.",
-      "contact": "student.elise.ironhack@abc.com"
+      "contact": "student.elise.ironhack@abc.com",
+      "events" : {
+        "created" : 1,
+        "attending" : null
+      }
     },
     {
       "id": 2,
       "userName": "Fran",
       "image": "URL",
       "aboutMe": "I am a student of the Ironhack Bootcamp.",
-      "contact": "student.fran.ironhack@abc.com"
+      "contact": "student.fran.ironhack@abc.com",
+      "events" : {
+        "created" : 2,
+        "attending" : null
+      }
     },
     {
       "id": 3,
       "userName": "MasterBug",
       "image": "URL",
       "aboutMe": "I am a MasterBug of the Ironhack Bootcamp.",
-      "contact": "masterbug.ironhack@abc.com"
+      "contact": "masterbug.ironhack@abc.com",
+      "events" : {
+        "created" : null,
+        "attending" : null
+      }
     },
     {
       "id": 4,
       "userName": "Teacher21",
       "image": "URL",
       "aboutMe": "I am a teacher of the Ironhack Bootcamp.",
-      "contact": "teacher21.ironhack@abc.com"
+      "contact": "teacher21.ironhack@abc.com",
+      "events" : {
+        "created" : null,
+        "attending" : null
+      }
     },
     {
       "id": 5,
       "userName": "Pixel",
       "image": "URL",
       "aboutMe": "I am a Pixel of the Ironhack Bootcamp.",
-      "contact": "pixel.ironhack@abc.com"
+      "contact": "pixel.ironhack@abc.com",
+      "events" : {
+        "created" : null,
+        "attending" : null
+      }
     },
     {
       "userId": 6,
       "userName": "Ale",
       "image": "URL",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
-      "contact": "ta.ale.ironhack@abc.com"
+      "contact": "ta.ale.ironhack@abc.com",
+      "events" : {
+        "created" : null,
+        "attending" : null
+      }
     },
     {
       "userId": 7,
       "userName": "SkyWalker42",
       "image": "URL",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
-      "contact": "ta.skywalker42.ironhack@abc.com"
+      "contact": "ta.skywalker42.ironhack@abc.com",
+      "events" : {
+        "created" : null,
+        "attending" : null
+      }
     },
     {
       "id": 8,
       "userName": "HarmonyQuest",
       "image": "URL",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
-      "contact": "ta.harmonyquest.ironhack@abc.com"
+      "contact": "ta.harmonyquest.ironhack@abc.com",
+      "events" : {
+        "created" : null,
+        "attending" : null
+      }
     },
     {
       "id": 9,
       "userName": "DataSculptor",
       "image": "URL",
       "aboutMe": "I am a Teacher of the Ironhack Bootcamp.",
-      "contact": "datasculptor.ironhack@abc.com"
+      "contact": "datasculptor.ironhack@abc.com",
+      "events" : {
+        "created" : null,
+        "attending" : null
+      }
     },
     {
       "id": 10,
       "userName": "Maria_32",
       "image": "URL",
       "aboutMe": "I am a Student of the Ironhack Bootcamp.",
-      "contact": "student.maria_32.ironhack@abc.com"
+      "contact": "student.maria_32.ironhack@abc.com",
+      "events" : {
+        "created" : 3,
+        "attending" : null
+      }
     }
   ]
 }
