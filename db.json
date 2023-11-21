@@ -45,8 +45,8 @@
       "aboutMe": "I am a student of the Ironhack Bootcamp.",
       "contact": "student.elise.ironhack@abc.com",
       "events" : {
-        "created" : 1,
-        "attending" : null
+        "created" : [1, 2],
+        "attending" : [ ]
       }
     },
     {
@@ -56,8 +56,8 @@
       "aboutMe": "I am a student of the Ironhack Bootcamp.",
       "contact": "student.fran.ironhack@abc.com",
       "events" : {
-        "created" : 2,
-        "attending" : null
+        "created" : [2],
+        "attending" : [1 ]
       }
     },
     {
@@ -67,8 +67,8 @@
       "aboutMe": "I am a MasterBug of the Ironhack Bootcamp.",
       "contact": "masterbug.ironhack@abc.com",
       "events" : {
-        "created" : null,
-        "attending" : null
+        "created" : [ ],
+        "attending" : [ ]
       }
     },
     {
@@ -78,8 +78,8 @@
       "aboutMe": "I am a teacher of the Ironhack Bootcamp.",
       "contact": "teacher21.ironhack@abc.com",
       "events" : {
-        "created" : null,
-        "attending" : null
+        "created" : [ ],
+        "attending" : [ ]
       }
     },
     {
@@ -89,8 +89,8 @@
       "aboutMe": "I am a Pixel of the Ironhack Bootcamp.",
       "contact": "pixel.ironhack@abc.com",
       "events" : {
-        "created" : null,
-        "attending" : null
+        "created" : [ ],
+        "attending" : [ ]
       }
     },
     {
@@ -100,8 +100,8 @@
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.ale.ironhack@abc.com",
       "events" : {
-        "created" : null,
-        "attending" : null
+        "created" : [ ],
+        "attending" : [ ]
       }
     },
     {
@@ -111,8 +111,8 @@
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.skywalker42.ironhack@abc.com",
       "events" : {
-        "created" : null,
-        "attending" : null
+        "created" : [ ],
+        "attending" : [ 1,2]
       }
     },
     {
@@ -122,8 +122,8 @@
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.harmonyquest.ironhack@abc.com",
       "events" : {
-        "created" : null,
-        "attending" : null
+        "created" : [ ],
+        "attending" : [1]
       }
     },
     {
@@ -133,8 +133,8 @@
       "aboutMe": "I am a Teacher of the Ironhack Bootcamp.",
       "contact": "datasculptor.ironhack@abc.com",
       "events" : {
-        "created" : null,
-        "attending" : null
+        "created" : [ ],
+        "attending" : [ 1]
       }
     },
     {
@@ -144,8 +144,8 @@
       "aboutMe": "I am a Student of the Ironhack Bootcamp.",
       "contact": "student.maria_32.ironhack@abc.com",
       "events" : {
-        "created" : 3,
-        "attending" : null
+        "created" : [3],
+        "attending" : [ ]
       }
     }
   ]
