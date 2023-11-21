@@ -7,7 +7,7 @@
       "creator": "Luis",
       "location": "Remote",
       "date": "2023-11-24",
-      "time_range": "1pm-4pm",
+      "time": "13.00",
       "notes": [
         "Be on time",
         "Wear something formal"
@@ -22,7 +22,7 @@
       "creator": "Luis",
       "location": "Remote",
       "date": "2023-11-3",
-      "time_range": "1pm-4pm",
+      "time": "13.00",
       "notes": [
           "Be on time",
           "Wear something formal"
