@@ -31,5 +31,46 @@
       "type": "Meeting"
   }
   ],
-  "tasks": []
+  "users": [
+    {
+      "userId": 1,
+      "userName": "Elise"
+    },
+    {
+      "userId": 2,
+      "userName": "Fran"
+    },
+    {
+      "userId": 3,
+      "userName": "MasterBug"
+    },
+    {
+      "userId": 4,
+      "userName": "Teacher21"
+    },
+    {
+      "userId": 5,
+      "userName": "Pixel"
+    },
+    {
+      "userId": 6,
+      "userName": "Ale"
+    },
+    {
+      "userId": 7,
+      "userName": "SkyWalker42"
+    },
+    {
+      "userId": 8,
+      "userName": "HarmonyQuest"
+    },
+    {
+      "userId": 9,
+      "userName": "DataSculptor"
+    },
+    {
+      "userId": 10,
+      "userName": "Maria_32"
+    }
+  ]
 }
