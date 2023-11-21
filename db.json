@@ -35,70 +35,70 @@
     {
       "userId": 1,
       "userName": "Elise",
-      "image": "URL",
+      "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a student of the Ironhack Bootcamp.",
       "contact": "student.elise.ironhack@abc.com"
     },
     {
       "userId": 2,
       "userName": "Fran",
-      "image": "URL",
+      "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a student of the Ironhack Bootcamp.",
       "contact": "student.fran.ironhack@abc.com"
     },
     {
       "userId": 3,
       "userName": "MasterBug",
-      "image": "URL",
+      "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a MasterBug of the Ironhack Bootcamp.",
       "contact": "masterbug.ironhack@abc.com"
     },
     {
       "userId": 4,
       "userName": "Teacher21",
-      "image": "URL",
+      "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a teacher of the Ironhack Bootcamp.",
       "contact": "teacher21.ironhack@abc.com"
     },
     {
       "userId": 5,
       "userName": "Pixel",
-      "image": "URL",
+      "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a Pixel of the Ironhack Bootcamp.",
       "contact": "pixel.ironhack@abc.com"
     },
     {
       "userId": 6,
       "userName": "Ale",
-      "image": "URL",
+      "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.ale.ironhack@abc.com"
     },
     {
       "userId": 7,
       "userName": "SkyWalker42",
-      "image": "URL",
+      "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.skywalker42.ironhack@abc.com"
     },
     {
       "userId": 8,
       "userName": "HarmonyQuest",
-      "image": "URL",
+      "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.harmonyquest.ironhack@abc.com"
     },
     {
       "userId": 9,
       "userName": "DataSculptor",
-      "image": "URL",
+      "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a Teacher of the Ironhack Bootcamp.",
       "contact": "datasculptor.ironhack@abc.com"
     },
     {
       "userId": 10,
       "userName": "Maria_32",
-      "image": "URL",
+      "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a Student of the Ironhack Bootcamp.",
       "contact": "student.maria_32.ironhack@abc.com"
     }
