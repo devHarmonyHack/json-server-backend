@@ -68,14 +68,14 @@
       "contact": "pixel.ironhack@abc.com"
     },
     {
-      "userId": 6,
+      "id": 6,
       "userName": "Ale",
       "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.ale.ironhack@abc.com"
     },
     {
-      "userId": 7,
+      "id": 7,
       "userName": "SkyWalker42",
       "image": "src/assets/default-profile-picture.png",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
