@@ -33,35 +33,35 @@
   ],
   "users": [
     {
-      "userId": 1,
+      "id": 1,
       "userName": "Elise",
       "image": "URL",
       "aboutMe": "I am a student of the Ironhack Bootcamp.",
       "contact": "student.elise.ironhack@abc.com"
     },
     {
-      "userId": 2,
+      "id": 2,
       "userName": "Fran",
       "image": "URL",
       "aboutMe": "I am a student of the Ironhack Bootcamp.",
       "contact": "student.fran.ironhack@abc.com"
     },
     {
-      "userId": 3,
+      "id": 3,
       "userName": "MasterBug",
       "image": "URL",
       "aboutMe": "I am a MasterBug of the Ironhack Bootcamp.",
       "contact": "masterbug.ironhack@abc.com"
     },
     {
-      "userId": 4,
+      "id": 4,
       "userName": "Teacher21",
       "image": "URL",
       "aboutMe": "I am a teacher of the Ironhack Bootcamp.",
       "contact": "teacher21.ironhack@abc.com"
     },
     {
-      "userId": 5,
+      "id": 5,
       "userName": "Pixel",
       "image": "URL",
       "aboutMe": "I am a Pixel of the Ironhack Bootcamp.",
@@ -82,21 +82,21 @@
       "contact": "ta.skywalker42.ironhack@abc.com"
     },
     {
-      "userId": 8,
+      "id": 8,
       "userName": "HarmonyQuest",
       "image": "URL",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.harmonyquest.ironhack@abc.com"
     },
     {
-      "userId": 9,
+      "id": 9,
       "userName": "DataSculptor",
       "image": "URL",
       "aboutMe": "I am a Teacher of the Ironhack Bootcamp.",
       "contact": "datasculptor.ironhack@abc.com"
     },
     {
-      "userId": 10,
+      "id": 10,
       "userName": "Maria_32",
       "image": "URL",
       "aboutMe": "I am a Student of the Ironhack Bootcamp.",
