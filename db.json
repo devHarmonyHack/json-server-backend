@@ -46,7 +46,12 @@
       "image": "",
       "type": "Meeting",
       "attendees": [],
-      "comments": []
+      "comments": [
+        {
+          "userName":"Pixel",
+          "comment": "Great event!",
+          "date": "2023-01-01"
+        }]
     },
     {
       "id": 4,
