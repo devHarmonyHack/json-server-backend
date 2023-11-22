@@ -10,7 +10,9 @@
       "time_range": "1pm-4pm",
       "notes": "",
       "image": "URL",
-      "type": "Meeting"
+      "type": "Meeting",
+      "attendees": [ ]
+
     },
     {
       "id": 2,
@@ -22,7 +24,8 @@
       "time_range": "1pm-4pm",
       "notes":"",
       "image": "URL",
-      "type": "Meeting"
+      "type": "Meeting",
+      "attendees": [ ]
   },
     {
       "id": 3,
@@ -34,7 +37,8 @@
       "time_range": "1pm-4pm",
       "notes":"",
       "image": "URL",
-      "type": "Meeting"
+      "type": "Meeting",
+      "attendees": [ ]
   }
   ],
   "users": [
