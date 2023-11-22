@@ -10,7 +10,11 @@
       "time_range": "1pm-4pm",
       "notes": "",
       "image": "URL",
-      "type": "Meeting"
+      "type": "Meeting",
+      "attendees": [
+        "Fran",
+        "Ale"
+      ]
     },
     {
       "id": 2,
@@ -22,7 +26,11 @@
       "time_range": "1pm-4pm",
       "notes": "",
       "image": "URL",
-      "type": "Meeting"
+      "type": "Meeting",
+      "attendees": [
+        "Elise",
+        "Ale"
+      ]
     },
     {
       "id": 3,
@@ -34,7 +42,8 @@
       "time_range": "1pm-4pm",
       "notes": "",
       "image": "",
-      "type": "Meeting"
+      "type": "Meeting",
+      "attendees": []
     },
     {
       "id": 4,
@@ -46,7 +55,8 @@
       "time_range": "3pm-6pm",
       "notes": "Bring your laptop!",
       "image": "",
-      "type": "Workshop"
+      "type": "Workshop",
+      "attendees": []
     },
     {
       "id": 5,
@@ -58,8 +68,9 @@
       "time_range": "6am-8am",
       "notes": "Wear comfortable clothes",
       "image": "",
-      "type": "Fitness"
-    }, 
+      "type": "Fitness",
+      "attendees": []
+    },
     {
       "id": 6,
       "name": "Art Exhibition",
@@ -70,7 +81,8 @@
       "time_range": "2pm-5pm",
       "notes": "Free entry for students",
       "image": "",
-      "type": "Exhibition"
+      "type": "Exhibition",
+      "attendees": []
     },
     {
       "id": 7,
@@ -82,7 +94,8 @@
       "time_range": "7pm-10pm",
       "notes": "All music genres welcome",
       "image": "",
-      "type": "Music"
+      "type": "Music",
+      "attendees": []
     }
   ],
   "users": [
@@ -98,7 +111,6 @@
           2
         ],
         "attending": [
-          1,
           2
         ]
       }
@@ -138,8 +150,12 @@
       "aboutMe": "I am a teacher of the Ironhack Bootcamp.",
       "contact": "teacher21.ironhack@abc.com",
       "events": {
-        "created": [7],
-        "attending": [6]
+        "created": [
+          7
+        ],
+        "attending": [
+          6
+        ]
       }
     },
     {
@@ -150,7 +166,13 @@
       "contact": "pixel.ironhack@abc.com",
       "events": {
         "created": [],
-        "attending": [1,2,3,4,5]
+        "attending": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
       }
     },
     {
@@ -160,8 +182,13 @@
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.ale.ironhack@abc.com",
       "events": {
-        "created": [7],
-        "attending": [1,2]
+        "created": [
+          7
+        ],
+        "attending": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -185,7 +212,9 @@
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.harmonyquest.ironhack@abc.com",
       "events": {
-        "created": [5],
+        "created": [
+          5
+        ],
         "attending": [
           1
         ]
@@ -198,7 +227,9 @@
       "aboutMe": "I am a Teacher of the Ironhack Bootcamp.",
       "contact": "datasculptor.ironhack@abc.com",
       "events": {
-        "created": [6],
+        "created": [
+          6
+        ],
         "attending": [
           1
         ]
@@ -214,7 +245,10 @@
         "created": [
           3
         ],
-        "attending": [5, 6]
+        "attending": [
+          5,
+          6
+        ]
       }
     }
   ]
