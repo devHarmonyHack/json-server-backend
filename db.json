@@ -20,13 +20,17 @@
       "description": "Students will present their games of module 1 of the WebDev Bootcamp of Ironhack",
       "creator": "Fran",
       "location": "Remote",
-      "date": "2023-11-3",
+      "date": "2023-11-03",
       "time_range": "1pm-4pm",
-      "notes":"",
+      "notes": "",
       "image": "URL",
       "type": "Meeting",
-      "attendees": ["Elise", "Ale"]
-  },
+      "attendees": [
+        "Elise",
+        "Ale"
+      ],
+      "comments": []
+    },
     {
       "id": 3,
       "name": "Sushi Meeting",
@@ -35,121 +39,225 @@
       "location": "SushiPlace",
       "date": "2023-11-3",
       "time_range": "1pm-4pm",
-      "notes":"",
-      "image": "URL",
+      "notes": "",
+      "image": "",
       "type": "Meeting",
-      "attendees": ["Fran", "Ale", "Elise"]
-  }
+      "attendees": [],
+      "comments": [
+        {
+          "userName":"Pixel",
+          "comment": "Great event!",
+          "date": "2023-01-01"
+        }]
+    },
+    {
+      "id": 4,
+      "name": "Coding Workshop",
+      "description": "Learn new coding techniques",
+      "creator": "Pixel",
+      "location": "TechHub",
+      "date": "2023-11-10",
+      "time_range": "3pm-6pm",
+      "notes": "Bring your laptop!",
+      "image": "",
+      "type": "Workshop",
+      "attendees": [],
+      "comments": []
+    },
+    {
+      "id": 5,
+      "name": "Fitness Challenge",
+      "description": "Join us for a fitness challenge",
+      "creator": "HarmonyQuest",
+      "location": "FitZone",
+      "date": "2023-11-15",
+      "time_range": "6am-8am",
+      "notes": "Wear comfortable clothes",
+      "image": "",
+      "type": "Fitness",
+      "attendees": [],
+      "comments": []
+    },
+    {
+      "id": 6,
+      "name": "Art Exhibition",
+      "description": "Explore beautiful artworks",
+      "creator": "DataSculptor",
+      "location": "ArtGallery",
+      "date": "2023-11-20",
+      "time_range": "2pm-5pm",
+      "notes": "Free entry for students",
+      "image": "",
+      "type": "Exhibition",
+      "attendees": [],
+      "comments": []
+    },
+    {
+      "id": 7,
+      "name": "Music Jam Session",
+      "description": "Bring your instruments and join the jam",
+      "creator": "Teacher21",
+      "location": "MusicStudio",
+      "date": "2023-11-25",
+      "time_range": "7pm-10pm",
+      "notes": "All music genres welcome",
+      "image": "",
+      "type": "Music",
+      "attendees": [],
+      "comments": []
+    }
   ],
   "users": [
     {
       "id": 1,
       "userName": "Elise",
-      "image": "src/assets/default-profile-picture.png",
+      "image": "",
       "aboutMe": "I am a student of the Ironhack Bootcamp.",
       "contact": "student.elise.ironhack@abc.com",
-      "events" : {
-        "created" : [1, 2],
-        "attending" : [ ]
+      "events": {
+        "created": [
+          1
+          
+        ],
+        "attending": [
+          2
+        ]
       }
     },
     {
       "id": 2,
       "userName": "Fran",
-      "image": "src/assets/default-profile-picture.png",
+      "image": "",
       "aboutMe": "I am a student of the Ironhack Bootcamp.",
       "contact": "student.fran.ironhack@abc.com",
-      "events" : {
-        "created" : [2],
-        "attending" : [1 ]
+      "events": {
+        "created": [
+          2
+        ],
+        "attending": [
+          1
+        ]
       }
     },
     {
       "id": 3,
       "userName": "MasterBug",
-      "image": "src/assets/default-profile-picture.png",
+      "image": "",
       "aboutMe": "I am a MasterBug of the Ironhack Bootcamp.",
       "contact": "masterbug.ironhack@abc.com",
-      "events" : {
-        "created" : [ ],
-        "attending" : [ ]
+      "events": {
+        "created": [
+          3
+        ],
+        "attending": []
       }
     },
     {
       "id": 4,
       "userName": "Teacher21",
-      "image": "src/assets/default-profile-picture.png",
+      "image": "",
       "aboutMe": "I am a teacher of the Ironhack Bootcamp.",
       "contact": "teacher21.ironhack@abc.com",
-      "events" : {
-        "created" : [ ],
-        "attending" : [ ]
+      "events": {
+        "created": [
+          7
+        ],
+        "attending": [
+          6
+        ]
       }
     },
     {
       "id": 5,
       "userName": "Pixel",
-      "image": "src/assets/default-profile-picture.png",
+      "image": "",
       "aboutMe": "I am a Pixel of the Ironhack Bootcamp.",
       "contact": "pixel.ironhack@abc.com",
-      "events" : {
-        "created" : [ ],
-        "attending" : [ ]
+      "events": {
+        "created": [],
+        "attending": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
       }
     },
     {
       "id": 6,
       "userName": "Ale",
-      "image": "src/assets/default-profile-picture.png",
+      "image": "",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.ale.ironhack@abc.com",
-      "events" : {
-        "created" : [ ],
-        "attending" : [ ]
+      "events": {
+        "created": [
+          7
+        ],
+        "attending": [
+          1,
+          2
+        ]
       }
     },
     {
       "id": 7,
       "userName": "SkyWalker42",
-      "image": "src/assets/default-profile-picture.png",
+      "image": "",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.skywalker42.ironhack@abc.com",
-      "events" : {
-        "created" : [ ],
-        "attending" : [ 1,2]
+      "events": {
+        "created": [],
+        "attending": [
+          1,
+          2
+        ]
       }
     },
     {
       "id": 8,
       "userName": "HarmonyQuest",
-      "image": "src/assets/default-profile-picture.png",
+      "image": "",
       "aboutMe": "I am a TA of the Ironhack Bootcamp.",
       "contact": "ta.harmonyquest.ironhack@abc.com",
-      "events" : {
-        "created" : [ ],
-        "attending" : [1]
+      "events": {
+        "created": [
+          5
+        ],
+        "attending": [
+          1
+        ]
       }
     },
     {
       "id": 9,
       "userName": "DataSculptor",
-      "image": "src/assets/default-profile-picture.png",
+      "image": "",
       "aboutMe": "I am a Teacher of the Ironhack Bootcamp.",
       "contact": "datasculptor.ironhack@abc.com",
-      "events" : {
-        "created" : [ ],
-        "attending" : [ 1]
+      "events": {
+        "created": [
+          6
+        ],
+        "attending": [
+          1
+        ]
       }
     },
     {
       "id": 10,
       "userName": "Maria_32",
-      "image": "src/assets/default-profile-picture.png",
+      "image": "",
       "aboutMe": "I am a Student of the Ironhack Bootcamp.",
       "contact": "student.maria_32.ironhack@abc.com",
-      "events" : {
-        "created" : [3],
-        "attending" : [ ]
+      "events": {
+        "created": [
+          3
+        ],
+        "attending": [
+          5,
+          6
+        ]
       }
     }
   ]
